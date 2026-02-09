@@ -1,5 +1,6 @@
 # Text-recognition-
-A complete code for text recognition
+#A complete code for text recognition
+
 import re
 import long_responses as long
 
